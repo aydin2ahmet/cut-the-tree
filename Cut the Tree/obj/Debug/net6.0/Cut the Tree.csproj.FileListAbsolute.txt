@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\bin\Debug\net6.0\Cut the Tree.exe
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\bin\Debug\net6.0\Cut the Tree.deps.json
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\bin\Debug\net6.0\Cut the Tree.runtimeconfig.json
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\bin\Debug\net6.0\Cut the Tree.dll
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\bin\Debug\net6.0\Cut the Tree.pdb
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.dll
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\refint\Cut the Tree.dll
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.pdb
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\Cut the Tree.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Questions\Cut the Tree\Cut the Tree\obj\Debug\net6.0\ref\Cut the Tree.dll
