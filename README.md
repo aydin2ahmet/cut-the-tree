@@ -9,19 +9,17 @@ edges = [(1, 2), (1, 3), (2, 6), (3, 4), (3,5)]
 
 The values are calculated as follows:
 
-  Edge   Tree 1  Tree 2 Absolute 
+  Edge Cut  Tree1 Sum  Tree2 Sum  Absolute Difference
   
-  Cut    Sum     Sum    Difference
+    1          8          13           5
   
-  1      8       13       5
+    2          9          12           3
   
-  2      9       12       3
+    3          6          15           9
   
-  3      6       15       9
+    4          4          17           13
   
-  4      4       17       13
-  
-  5      5       16       11
+    5          5          16           11
 
 The minimum absolute difference is 3.
 Note: The given tree is always rooted at vertex 1.
